@@ -1,0 +1,1 @@
+var persona = { name = "ivan", lastname = "gonzalez"}
